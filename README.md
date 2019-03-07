@@ -1,4 +1,6 @@
-# Allard-Shi.github.io
-MedimAS workshop and personal website as well
-The web is owned by Wen Shi who is currently a senior in Xi'an Jiaotong University and will persue his PhD in medical imaging and neuroimaging in the United States in the future.
-Welcome to MedimAS workshop and you can also pay attention to our public wechat number: MedimAS
+# MedimAS workshop and website
+The repository is owned by Allard Shi and collaborator Soupee Li. We are currently seniors in Xi'an Jiaotong University and will persue PhD in neuroimaging and neuroengineering in the United States soon.
+
+### Welcome to MedimAS workshop! 
+The workshop is where we can chat and discuss the latest news, techniques and methods in neuroscience and engineering.
+You can also pay attention to our public wechat number: **MedimAS**
